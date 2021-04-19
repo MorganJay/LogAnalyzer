@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace LogAnalyzerAPI.UserStories
+namespace LogAnalyzerLibrary
 {
     public class Count : ICount
     {

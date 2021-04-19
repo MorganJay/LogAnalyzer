@@ -1,4 +1,4 @@
-﻿using LogAnalyzerAPI.UserStories;
+﻿using LogAnalyzerLibrary;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LogAnalyzerAPI.UserStories
+namespace LogAnalyzerLibrary
 {
     public interface ICount
     {
